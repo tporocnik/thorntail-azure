@@ -10,7 +10,7 @@ Build a simple Thorntail app. Beware that the static page must not be in the sco
 
 Local test: Run the bat-file.
 
-Caution: The maven plugin will do a check on the manifest via JarInputStream#getManifest. This needs the manifesst at the first entry in the jar. This is *not* suported by Thorntail at the moment. You can reorder the entries via Windows built in Zip but not with 7Zip (it will reorder all the time) se
+Caution: The Azure maven plugin will do a check on the manifest via JarInputStream#getManifest. This needs the manifesst at the first entry in the jar. This is *not* supported by Thorntail at the moment. You can reorder the entries via Windows built in Zip but not with 7Zip (it will reorder all the time) se
 
 See https://bugs.openjdk.java.net/browse/JDK-8031748
 
