@@ -36,4 +36,4 @@ Then you can deploy via the plugin:
   
     mvn azure-webapp:deploy
 
-The deployed app can be found here: https://poro-sample.azurewebsites.net/
+The deployed app can be found here: https://[app-name].azurewebsites.net/
