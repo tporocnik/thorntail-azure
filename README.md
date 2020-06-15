@@ -1,4 +1,4 @@
-# test-thorntail-azure
+# thorntail-azure
 
 Run Thorntail ueber-jar as Azure App Service.
 
